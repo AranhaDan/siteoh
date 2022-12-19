@@ -81,7 +81,7 @@ main h1 {color: var(--cor5);}
 
 main h2 {margin: 10px;
     color: var(--cor2);
-background-image: linear-gradient(to right,transparent, var(--cor1), transparent );}
+background-image: linear-gradient(to left,transparent, var(--cor1), transparent );}
 
 h1 { text-align: center;}
 
