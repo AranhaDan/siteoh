@@ -105,6 +105,9 @@ footer p { font-size: 80%;
 
 footer a {color: white; text-decoration: none;}
 
+footer img {
+    width: 9px;}
+
 footer img.spider {
     width: 102px;
 }
@@ -114,9 +117,6 @@ footer ul { list-style: none;
     font-size: 80%;
 margin-top: 5px;}
 
-footer img {
-    width: 9px;
-}
 
 footer div { display: inline-block;
 width: 320px;
