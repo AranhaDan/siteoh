@@ -79,7 +79,7 @@ border-bottom-right-radius: 10px;
 margin-bottom: 30px;
 }
 
-main a {color: var(--cor6); text-decoration: none;}
+main a {color: var(--cor6); text-decoration: none; font-weight: bolder;}
 
 main p {margin: 10px}
 
