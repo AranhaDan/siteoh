@@ -90,6 +90,7 @@ main h2 {margin: 10px;
     color: var(--cor2);
 background-image: linear-gradient(to left,transparent, var(--cor1), transparent );}
 
+div.tabela { overflow: auto;}
 table {border-collapse: collapse; text-align: center; width: 100%; position: relative;}
 caption {background-color: var(--cor6); color: white; font-weight: bolder; padding: 8px;}
 th , td {border: 1px solid var(--cor1); padding: 8px;}
